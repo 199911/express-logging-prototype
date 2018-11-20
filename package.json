@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "express-pino-logger": "^4.0.0",
     "express-winston": "^3.0.1",
