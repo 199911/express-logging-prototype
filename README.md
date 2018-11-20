@@ -8,3 +8,9 @@ Try out different Node.js log framework with Express.js
 - Built in format for unstructured logging only
 - Can implement structure logging with custom log format
 - Does not have severity level
+
+## Winston Express middleware
+
+- Will log the header by default
+- Need to filter authorization token in header
+- Need to whitelist if we need request body in log
