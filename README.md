@@ -14,3 +14,8 @@ Try out different Node.js log framework with Express.js
 - Will log the header by default
 - Need to filter authorization token in header
 - Need to whitelist if we need request body in log
+
+## Express Pino Logger
+
+- No configuration
+- Cannot log request body

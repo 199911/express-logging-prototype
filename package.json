@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "express": "^4.16.4",
+    "express-pino-logger": "^4.0.0",
     "express-winston": "^3.0.1",
     "morgan": "^1.9.1",
     "winston": "^3.1.0"
