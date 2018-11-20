@@ -15,7 +15,7 @@ const custom = morgan((tokens, req, res) => {
 });
 app.use(custom);
 
-app.get('/', function (req, res) {
+app.all('/', function (req, res) {
   res.send('hello, world!');
 });
 
