@@ -20,3 +20,8 @@ Try out different Node.js log framework with Express.js
 
 - No configuration
 - Cannot log request body
+
+## Pino HTTP
+
+- Can use custom serializer to log body
+  - Require to use body-parser before logger
